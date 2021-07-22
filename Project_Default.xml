@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MVCPathVariableInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SpringComponentScan" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SpringMVCInitBinder" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SpringMVCViewInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SpringMessageDispatcherWebXmlInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SpringWebServiceAnnotationsInconsistencyInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SpringWebServicesConfigurationsInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+  </profile>
+</component>
